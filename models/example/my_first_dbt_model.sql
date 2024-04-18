@@ -26,3 +26,4 @@ from source_data
 
 -- where id is not null
 -- comment
+-- second comment
