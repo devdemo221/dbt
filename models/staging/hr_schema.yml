@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: dbt_redshift_project
+    database: dbtworkshop 
+    schema: HumanResources 
+    tables:
+      - name: department
+      - name: employeedepartmenthistory
